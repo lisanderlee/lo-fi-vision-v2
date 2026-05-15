@@ -1,0 +1,6 @@
+{
+  "name": "Lo-Fi Vision",
+  "description": "A clean, minimalist weather app with a hidden Multiverse prompt bar that uses Gemini API to completely overhaul its aesthetic and tone in real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
